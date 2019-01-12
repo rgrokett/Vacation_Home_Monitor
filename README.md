@@ -12,5 +12,5 @@ This is a Proof-of-Concept (POC) use of the NXP Rapid IoT Prototyping Kit to rem
 + Vacation Home Monitor source.zip -- Full NXP source for this project (not req.)
 
 Full Docs at:
-[Vacation Home Monitor.pdf](/Vacation Home Monitor.pdf)
+["Vacation Home Monitor.pdf"](/"Vacation Home Monitor.pdf")
 
