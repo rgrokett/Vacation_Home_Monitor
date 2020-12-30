@@ -1,6 +1,7 @@
 # Vacation_Home_Monitor
 ### Vacation Home Monitor using NXP Rapid IoT Device
 
+
 ![ecohouse](/ecohouse.gif)
 
 [NXP Rapid IoT Prototyping Kit](https://www.nxp.com/support/developer-resources/rapid-prototyping/nxp-rapid-iot-prototyping-kit:IOT-PROTOTYPING) 
